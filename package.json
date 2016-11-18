@@ -1,12 +1,12 @@
 {
-  "name": "websockito",
+  "name": "websockito-temp",
   "version": "0.1.0",
   "description": "A module to teach you how to use Web Sockets in Node.js.",
   "bin": "./websockito.js",
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/rspective/websockito"
+    "url": "git://github.com/jpwesselink/websockito"
   },
   "keywords": [
     "workshop",
@@ -21,7 +21,7 @@
   "author": "rspective (dev@rspective.pl)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rspective/websockito/issues"
+    "url": "https://github.com/jpwesselink/websockito/issues"
   },
   "dependencies": {
     "lodash": "~3.6.0",
